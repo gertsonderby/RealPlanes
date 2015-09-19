@@ -1,0 +1,146 @@
+fileFormatVersion: 2
+guid: 9cc2866cd2086a94c912e0966bbc78a4
+ModelImporter:
+  serializedVersion: 16
+  fileIDToRecycleName:
+    100000: BezierCurve_000
+    100002: BezierCurve_007
+    100004: BezierCurve_009
+    100006: Canopy_Front
+    100008: Canopy_Left
+    100010: Canopy_Main
+    100012: Canopy_Right
+    100014: Circle_001
+    100016: Cylinder_004_collider
+    100018: Cylinder_004_collider_001
+    100020: Frame_Front
+    100022: Frame_Rear
+    100024: Fuselage_Adapter
+    100026: oblongFuselage
+    100028: oblongFuselage_001
+    100030: oblongParts
+    100032: oblongParts_001
+    100034: //RootNode
+    100036: Canopy_Left_001
+    100038: Collider
+    400000: BezierCurve_000
+    400002: BezierCurve_007
+    400004: BezierCurve_009
+    400006: Canopy_Front
+    400008: Canopy_Left
+    400010: Canopy_Main
+    400012: Canopy_Right
+    400014: Circle_001
+    400016: Cylinder_004_collider
+    400018: Cylinder_004_collider_001
+    400020: Frame_Front
+    400022: Frame_Rear
+    400024: Fuselage_Adapter
+    400026: oblongFuselage
+    400028: oblongFuselage_001
+    400030: oblongParts
+    400032: oblongParts_001
+    400034: //RootNode
+    400036: Canopy_Left_001
+    400038: Collider
+    2300000: BezierCurve_000
+    2300002: BezierCurve_007
+    2300004: BezierCurve_009
+    2300006: Canopy_Front
+    2300008: Canopy_Left
+    2300010: Canopy_Main
+    2300012: Canopy_Right
+    2300014: Circle_001
+    2300016: Cylinder_004_collider
+    2300018: Cylinder_004_collider_001
+    2300020: Frame_Front
+    2300022: Frame_Rear
+    2300024: Fuselage_Adapter
+    2300026: Canopy_Left_001
+    2300028: Collider
+    3300000: BezierCurve_000
+    3300002: BezierCurve_007
+    3300004: BezierCurve_009
+    3300006: Canopy_Front
+    3300008: Canopy_Left
+    3300010: Canopy_Main
+    3300012: Canopy_Right
+    3300014: Circle_001
+    3300016: Cylinder_004_collider
+    3300018: Cylinder_004_collider_001
+    3300020: Frame_Front
+    3300022: Frame_Rear
+    3300024: Fuselage_Adapter
+    3300026: Canopy_Left_001
+    3300028: Collider
+    4300000: Canopy_Left
+    4300002: Cylinder_004_collider_001
+    4300004: Fuselage_Adapter
+    4300006: Cylinder_004_collider
+    4300008: Canopy_Right
+    4300010: Canopy_Front
+    4300012: BezierCurve_000
+    4300014: BezierCurve_009
+    4300016: Frame_Front
+    4300018: Frame_Rear
+    4300020: Canopy_Main
+    4300022: BezierCurve_007
+    4300024: Circle_001
+    4300026: Canopy_Left_001
+    4300028: Collider
+    7400000: Default Take
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  additionalBone: 0
+  userData: 
