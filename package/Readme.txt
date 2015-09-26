@@ -9,8 +9,8 @@ Models by Genius Evil
 
 Realistic engine configs by Nathankell & Camlost
 
-Updated and maintained by Autochton
-
 Uses textures by nli2work and Snjo.
+
+Updated and maintained by Autochton at https://github.com/gertsonderby/RealPlanes
 
 Licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License.
