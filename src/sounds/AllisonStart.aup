@@ -1,0 +1,37 @@
+<?xml version="1.0" standalone="no" ?>
+<!DOCTYPE project PUBLIC "-//audacityproject-1.3.0//DTD//EN" "http://audacity.sourceforge.net/xml/audacityproject-1.3.0.dtd" >
+<project xmlns="http://audacity.sourceforge.net/xml/" projname="AllisonStart_data" version="1.3.0" audacityversion="2.0.6" sel0="7.1401360544" sel1="13.0804535147" vpos="0" h="0.0000000000" zoom="86.1328125000" rate="44100.0" snapto="off" selectionformat="hh:mm:ss + milliseconds">
+	<tags/>
+	<wavetrack name="Warbird Engine Starts - Props &amp; V-12&apos;s" channel="0" linked="1" mute="0" solo="0" height="150" minimized="0" isSelected="0" rate="44100" gain="1.0" pan="0.0">
+		<waveclip offset="0.00000000">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="576848">
+				<waveblock start="0">
+					<simpleblockfile filename="e0000562.au" len="177790" min="-0.451337" max="0.429629" rms="0.046948"/>
+				</waveblock>
+				<waveblock start="177790">
+					<simpleblockfile filename="e0000d72.au" len="262144" min="-1.174529" max="1.179169" rms="0.143515"/>
+				</waveblock>
+				<waveblock start="439934">
+					<simpleblockfile filename="e00008b8.au" len="136914" min="-1.26007" max="1.096674" rms="0.142298"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+	</wavetrack>
+	<wavetrack name="Warbird Engine Starts - Props &amp; V-12&apos;s" channel="1" linked="0" mute="0" solo="0" height="150" minimized="0" isSelected="0" rate="44100" gain="1.0" pan="0.0">
+		<waveclip offset="0.00000000">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="576848">
+				<waveblock start="0">
+					<simpleblockfile filename="e0000691.au" len="177790" min="-0.469257" max="0.409614" rms="0.051704"/>
+				</waveblock>
+				<waveblock start="177790">
+					<simpleblockfile filename="e000013e.au" len="262144" min="-1.172711" max="1.210484" rms="0.146557"/>
+				</waveblock>
+				<waveblock start="439934">
+					<simpleblockfile filename="e000050e.au" len="136914" min="-1.078945" max="1.158694" rms="0.144099"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+	</wavetrack>
+</project>
