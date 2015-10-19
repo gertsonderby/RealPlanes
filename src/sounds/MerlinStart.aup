@@ -1,37 +1,61 @@
 <?xml version="1.0" standalone="no" ?>
 <!DOCTYPE project PUBLIC "-//audacityproject-1.3.0//DTD//EN" "http://audacity.sourceforge.net/xml/audacityproject-1.3.0.dtd" >
-<project xmlns="http://audacity.sourceforge.net/xml/" projname="MerlinStart_data" version="1.3.0" audacityversion="2.0.6" sel0="0.0000000000" sel1="10.7629024943" vpos="0" h="0.0000000000" zoom="86.1328125000" rate="44100.0" snapto="off" selectionformat="hh:mm:ss + milliseconds">
+<project xmlns="http://audacity.sourceforge.net/xml/" projname="MerlinStart_data" version="1.3.0" audacityversion="2.0.6" sel0="5.9907482993" sel1="11.0771428571" vpos="0" h="0.0000000000" zoom="86.1328125000" rate="44100.0" snapto="off" selectionformat="hh:mm:ss + milliseconds">
 	<tags/>
 	<wavetrack name="Warbird Engine Starts - Props &amp; V-12&apos;s" channel="0" linked="1" mute="0" solo="0" height="150" minimized="0" isSelected="0" rate="44100" gain="1.0" pan="0.0">
 		<waveclip offset="0.00000000">
 			<sequence maxsamples="262144" sampleformat="262159" numsamples="474644">
 				<waveblock start="0">
-					<simpleblockfile filename="e00004b8.au" len="141935" min="-1.07894" max="1.073427" rms="0.108327"/>
+					<simpleblockfile filename="e0000fe6.au" len="133274" min="-1.07894" max="1.073427" rms="0.108127"/>
 				</waveblock>
-				<waveblock start="141935">
-					<simpleblockfile filename="e0000825.au" len="262144" min="-1.311803" max="1.268036" rms="0.198344"/>
+				<waveblock start="133274">
+					<simpleblockfile filename="e0000991.au" len="170685" min="-1.311803" max="1.268036" rms="0.194093"/>
 				</waveblock>
-				<waveblock start="404079">
-					<simpleblockfile filename="e00007b2.au" len="70565" min="-0.874476" max="0.931937" rms="0.068507"/>
+				<waveblock start="303959">
+					<simpleblockfile filename="e0000a30.au" len="170685" min="-0.775444" max="0.871892" rms="0.079331"/>
 				</waveblock>
 			</sequence>
-			<envelope numpoints="0"/>
+			<envelope numpoints="1">
+				<controlpoint t="10.762879818594" val="1.000000000000"/>
+			</envelope>
+		</waveclip>
+		<waveclip offset="10.76290249">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="13858">
+				<waveblock start="0">
+					<simpleblockfile filename="e0000340.au" len="13858" min="-0.041528" max="0.046105" rms="0.002595"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="1">
+				<controlpoint t="0.000000000000" val="1.000000000000"/>
+			</envelope>
 		</waveclip>
 	</wavetrack>
 	<wavetrack name="Warbird Engine Starts - Props &amp; V-12&apos;s" channel="1" linked="0" mute="0" solo="0" height="150" minimized="0" isSelected="0" rate="44100" gain="1.0" pan="0.0">
 		<waveclip offset="0.00000000">
 			<sequence maxsamples="262144" sampleformat="262159" numsamples="474644">
 				<waveblock start="0">
-					<simpleblockfile filename="e0000f0f.au" len="141935" min="-1.104616" max="1.017873" rms="0.113253"/>
+					<simpleblockfile filename="e0000e02.au" len="133274" min="-1.104616" max="1.017873" rms="0.113089"/>
 				</waveblock>
-				<waveblock start="141935">
-					<simpleblockfile filename="e00004df.au" len="262144" min="-1.296799" max="1.178841" rms="0.200675"/>
+				<waveblock start="133274">
+					<simpleblockfile filename="e000031e.au" len="170685" min="-1.296799" max="1.178841" rms="0.196129"/>
 				</waveblock>
-				<waveblock start="404079">
-					<simpleblockfile filename="e0000d18.au" len="70565" min="-0.864476" max="0.938164" rms="0.070136"/>
+				<waveblock start="303959">
+					<simpleblockfile filename="e00005eb.au" len="170685" min="-0.959969" max="0.936707" rms="0.08065"/>
 				</waveblock>
 			</sequence>
-			<envelope numpoints="0"/>
+			<envelope numpoints="1">
+				<controlpoint t="10.762879818594" val="1.000000000000"/>
+			</envelope>
+		</waveclip>
+		<waveclip offset="10.76290249">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="13858">
+				<waveblock start="0">
+					<simpleblockfile filename="e000091e.au" len="13858" min="-0.04088" max="0.054591" rms="0.002702"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="1">
+				<controlpoint t="0.000000000000" val="1.000000000000"/>
+			</envelope>
 		</waveclip>
 	</wavetrack>
 </project>
