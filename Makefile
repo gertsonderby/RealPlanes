@@ -1,14 +1,14 @@
 EXCLUDEPARTS =VTProp/PARTS/Props/BMW_IIIA.cfg VTProp/PARTS/Props/LibertyV12.cfg Sounds/sound_fsprop*.wav
 ZIPCMD =cd package && /usr/bin/zip
 
-.PHONY: latestRelease
+.PHONY: all
 all:
 	$(eval PREVIOUS_TAG=$(shell echo `git describe --abbrev=0 --tags`))
 	make release-$(subst v,,${PREVIOUS_TAG})
 
 .PHONY: release-%
 release-%: RealPlanes-%
-	
+
 
 .PRECIOUS: .git/refs/tags/v%
 .git/refs/tags/v%:
