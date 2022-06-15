@@ -18,7 +18,5 @@ Licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 Inter
 
 # Contributing
 
-If you have error reports or changes for this mod, please use the github
-repository at https://github.com/gertsonderby/RealPlanes - here you may create
-an issue to describe your problem, or send in a pull request with modified
-code.
+If you have error reports or changes for this mod, please fork the github
+repository at https://github.com/gertsonderby/RealPlanes. This repository is no longer used or maintained.
